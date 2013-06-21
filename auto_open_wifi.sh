@@ -1,5 +1,4 @@
 #!/bin/bash
-# Proper header for a Bash script.
 
 set -e
 
